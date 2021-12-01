@@ -1,7 +1,7 @@
 /*
 *   Author: Christopher Tian
 *   Date: 01 DEC 2021
-*   Project: Challenge 1 of AoC 2021 - Find the count of integers in a list that are greater than the previous integer
+*   Project: Challenge 1 of Day 1 of AoC 2021 - Find the count of integers in a list that are greater than the previous integer
 *   Edge case: first int is not counted
 */
 
